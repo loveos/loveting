@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <active>
-<mac><![CDATA[ ]]></mac><result><![CDATA[ 1 ]]></result>
-<trialtime><![CDATA[ 3120637665 ]]></trialtime>
-<state><![CDATA[ 1 ]]></state>
+<mac><![CDATA[]]></mac><result><![CDATA[1]]></result>
+<trialtime><![CDATA[3120637665]]></trialtime>
+<state><![CDATA[1]]></state>
 <service><![CDATA[1]]></service>
 </active>
