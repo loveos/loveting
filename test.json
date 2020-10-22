@@ -1,1 +1,8 @@
-{"result":"0"}
+<?xml version="1.0" encoding="utf-8"?>
+<active>
+	<result><![CDATA[1]]></result>
+  <mac><![CDATA[c42afe86302]]></mac>
+  <service><![CDATA[1]></service>
+  <trialTime><![CDATA[543221653]]></trialTime>
+	<state><![CDATA[1]]></phone>
+</active>
