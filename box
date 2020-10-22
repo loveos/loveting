@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <active>
-    <result>
-        <![CDATA[1]]>
-    </result>
-    <mac>
-        <![CDATA[c42afe86302]]>
-    </mac>
-    <service>
-        <![CDATA[1]>
-    </service>
-    <trialTime>
-        <![CDATA[521653]]>
-    </trialTime>
-    <state>
-        <![CDATA[1]]>
-    </state>
-</active>
+<mac>
+<![CDATA[ 064190302376 ]]>
+</mac>
+<result>
+<![CDATA[ 1 ]]>
+</result>
+<trialtime>
+<![CDATA[ 3120637665 ]]>
+</trialtime>
+<state>
+<![CDATA[ 1 ]]>
+</state>
+<service>
+<![CDATA[ 1 ]]>
+</service>
+</active
